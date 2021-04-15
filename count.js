@@ -1,7 +1,7 @@
-'use strict'
+'use strict';
 
 function count(text, age) {
-console.log(text, age);
+  console.log(text, age);
 }
 
-count('My age is: ',100);
+count('Counting the countless ', 100);
