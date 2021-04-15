@@ -1,5 +1,5 @@
-function count(age) {
-return 'Your age is ' + age;
-}
+'use strict'
 
-console.log(count(100));
+function count(age) {
+console.log('Your age is ' + age);
+}
