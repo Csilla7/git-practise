@@ -2,4 +2,4 @@ function greet(name) {
     console.log( 'Szia ' + name);
 }
 
-greet('Csilla');
+greet('Csilla', 29);
