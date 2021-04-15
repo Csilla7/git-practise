@@ -4,7 +4,7 @@ const myHoro = 'Virgo';
 const chineseHoro = 'Tiger';
 
 function future(horo) {
-  console.log(horo);
+  console.log('Your future looks like ' + horo);
 }
 
-future(chineseHoro);
+future(myHoro, chineseHoro);
