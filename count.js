@@ -1,5 +1,7 @@
-function count(age) {
-return 'Your age is ' + age;
+'use strict'
+
+function count() {
+console.log('The number of the month I born in is: 3');
 }
 
-console.log(count(100));
+count();
