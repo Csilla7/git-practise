@@ -1,6 +1,6 @@
-function cheer (param1) {
+function cheer (param1, param2) {
     
-console.log(param1 + ' Wendy!');
+console.log(param1 + ' Wendy ' + param2);
 }
 
-cheer('Welcome');
+cheer('Welcome', 'Hall');
