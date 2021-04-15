@@ -1,5 +1,6 @@
 function cheer(par) {
-  console.log(par);
+  console.log("Cheer for the " + par);
 }
 
-cheer();
+cheer(hali);
+
