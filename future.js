@@ -1,5 +1,9 @@
 'use strict';
 
-function future () {
-    console.log('Virgo');
-}
+const myHoro = "Virgo";
+
+function future (horo) {
+    console.log(horo);
+};
+
+future(myHoro);
