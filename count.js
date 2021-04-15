@@ -1,7 +1,7 @@
 'use strict'
 
-function count() {
-console.log('The number of the month I born in is: 3');
+function count(text, age) {
+console.log(text, age);
 }
 
-count();
+count('My age is: ',100);
