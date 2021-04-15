@@ -1,5 +1,5 @@
 'use strict';
 
 function future () {
-    console.log('Aries');
+    console.log('Aries are the best');
 }
