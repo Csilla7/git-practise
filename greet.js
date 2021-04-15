@@ -1,5 +1,4 @@
 function greet(name) {
     console.log( 'Greetings for the ' + name);
-}
 
-greet('Csilla');
+greet('Csilla', 29);
