@@ -1,5 +1,5 @@
-function greet(name) {
-  console.log('Greetings' + name);
+function greet(name, age) {
+  console.log('Greetings ' + name + age);
 }
 
-greet('Csilla');
+greet('Csilla', 29);
