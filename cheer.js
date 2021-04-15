@@ -1,5 +1,5 @@
-function cheer() {
-  console.log("Cheer for the parameter");
+function cheer(par) {
+  console.log("Cheer for the " + par);
 }
 
-cheer();
+cheer("parameter");
