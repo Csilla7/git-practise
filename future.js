@@ -1,10 +1,10 @@
 'use strict';
 
-const myHoro = "Virgo";
-const chineseHoro = "Dog"
+const myHoro = 'Virgo';
+const chineseHoro = 'Tiger';
 
-function future (horo) {
-    console.log(horo);
-};
+function future(horo) {
+  console.log(horo);
+}
 
 future(chineseHoro);
